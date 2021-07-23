@@ -1,0 +1,25 @@
+.div {
+    margin-left: 25%;
+}
+
+.lib-title {
+    margin-left: 225px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    display: block;
+    width: 600px;
+    height: 50px;
+}
+
+.second {
+    margin-top: 15px;
+}
+
+.btn {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(173, 169, 169);
+    margin-top: 20px;
+}
